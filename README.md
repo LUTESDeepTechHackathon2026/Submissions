@@ -10,6 +10,7 @@ HOW TO SUBMIT YOUR PROJECT?
 3. Open a Submission Issue: Navigate to the Issues tab at the top of this repository.
 4. Fill Out the Template: Click New Issue, select the Project Submission Template, and fill in all the required details.
 5. Submit: Click Submit new issue. You are officially entered!
+6. Upload the video and the pitch deck in the repository
 
 Each team will have exactly 5 minutes to pitch and demo their project. Presentations will be followed by 3 minutes of Q&A from the judges. You must have your backup video ready to play immediately in case your live software demo fails.
 
